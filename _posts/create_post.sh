@@ -13,6 +13,14 @@ title:  $TITLE
 **Hello world**, this is my first Jekyll blog post.
 
 I hope you like it!
+
+<script src="https://utteranc.es/client.js"
+        repo="zoidicabra/zoidicabra.github.io"
+        issue-term="$FILENAME"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 EOF
 
 vim $FILENAME 
