@@ -6,6 +6,7 @@ cat > ./$FILENAME << EOF
 ---
 layout: post
 title:  $TITLE
+author: me
 ---
 
 # Welcome
