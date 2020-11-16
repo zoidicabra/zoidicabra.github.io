@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first post 
-author: me
+author: [@14NGiestas](https://github.com/14NGiestas)
 ---
 
 # Welcome
