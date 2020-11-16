@@ -1,7 +1,8 @@
 ---
 layout: post
 title: My first post 
-author: '<a href="https://github.com/14NGiestas">@14NGiestas</a>'
+author: <a href='https://github.com/14NGiestas'>@14NGiestas</a>
+lang: en
 ---
 
 # Welcome

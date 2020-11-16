@@ -6,7 +6,8 @@ cat > ./$FILENAME << EOF
 ---
 layout: post
 title:  $TITLE
-author: '<a href="https://github.com/14NGiestas">@14NGiestas</a>'
+author: <a href='https://github.com/14NGiestas'>@14NGiestas</a>
+lang: 
 ---
 
 # Welcome
